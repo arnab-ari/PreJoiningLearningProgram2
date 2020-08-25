@@ -5,4 +5,4 @@ Assignment1 directory contains files for the assignment one which contains comma
 
 Assignment2
 
-Maven: Direcotory for Maven Project,directory names indicative of the content.
+Maven: Solution of maven assignment.
