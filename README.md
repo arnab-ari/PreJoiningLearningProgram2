@@ -6,3 +6,5 @@ Assignment1 directory contains files for the assignment one which contains comma
 Assignment2
 
 Maven: Solution of maven assignment.
+
+Transaction Processing: First java project of assignment2. The input/output files could be found on src/resources directory.
