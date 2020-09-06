@@ -13,5 +13,7 @@ Transaction Processing: First java project of assignment2. The input/output file
 
 Average Income: Week 2 Assignment 3.The input/output files could be found on src/resources directory.
 
-UML & Jenkins: At present contains the jenkin assignment which illustrates CI/CD on the date time calculator. The maven project for
+UML & Jenkins: Contains the jenkin assignment which illustrates CI/CD on the date time calculator. The maven project for
 		date time calculator can be find in the "github.com/arnab-ari/DateTimeCalculator" repository.
+
+		Also contains class diagram and sequenct diagram for the project.
