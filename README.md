@@ -17,3 +17,7 @@ UML & Jenkins: Contains the jenkin assignment which illustrates CI/CD on the dat
 		date time calculator can be find in the "github.com/arnab-ari/DateTimeCalculator" repository.
 
 		Also contains class diagram and sequenct diagram for the project.
+
+C#
+
+Contains C# assignments.

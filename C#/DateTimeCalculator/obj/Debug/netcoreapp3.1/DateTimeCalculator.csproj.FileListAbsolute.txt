@@ -1,0 +1,13 @@
+C:\Users\ARNAB\source\repos\DateTimeCalculator\bin\Debug\netcoreapp3.1\DateTimeCalculator.exe
+C:\Users\ARNAB\source\repos\DateTimeCalculator\bin\Debug\netcoreapp3.1\DateTimeCalculator.deps.json
+C:\Users\ARNAB\source\repos\DateTimeCalculator\bin\Debug\netcoreapp3.1\DateTimeCalculator.runtimeconfig.json
+C:\Users\ARNAB\source\repos\DateTimeCalculator\bin\Debug\netcoreapp3.1\DateTimeCalculator.runtimeconfig.dev.json
+C:\Users\ARNAB\source\repos\DateTimeCalculator\bin\Debug\netcoreapp3.1\DateTimeCalculator.dll
+C:\Users\ARNAB\source\repos\DateTimeCalculator\bin\Debug\netcoreapp3.1\DateTimeCalculator.pdb
+C:\Users\ARNAB\source\repos\DateTimeCalculator\obj\Debug\netcoreapp3.1\DateTimeCalculator.csprojAssemblyReference.cache
+C:\Users\ARNAB\source\repos\DateTimeCalculator\obj\Debug\netcoreapp3.1\DateTimeCalculator.AssemblyInfoInputs.cache
+C:\Users\ARNAB\source\repos\DateTimeCalculator\obj\Debug\netcoreapp3.1\DateTimeCalculator.AssemblyInfo.cs
+C:\Users\ARNAB\source\repos\DateTimeCalculator\obj\Debug\netcoreapp3.1\DateTimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ARNAB\source\repos\DateTimeCalculator\obj\Debug\netcoreapp3.1\DateTimeCalculator.dll
+C:\Users\ARNAB\source\repos\DateTimeCalculator\obj\Debug\netcoreapp3.1\DateTimeCalculator.pdb
+C:\Users\ARNAB\source\repos\DateTimeCalculator\obj\Debug\netcoreapp3.1\DateTimeCalculator.genruntimeconfig.cache
